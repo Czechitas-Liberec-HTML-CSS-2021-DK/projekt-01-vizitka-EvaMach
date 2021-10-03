@@ -1,0 +1,48 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(253, 253, 253);
+    margin: 0px;
+}
+
+.kontakt {
+    font-size: 25px;
+    text-align: right;
+    font-weight: bolder;
+    padding-right: 480px;
+
+}
+
+.text {
+    color:rgba(255, 255, 255, 0.753);
+    line-height: 2;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: justify;
+    line-height: 1.5;
+    padding: 20px 0px 100px 70px;
+    background: rgb(243,255,255);
+    background: linear-gradient(0deg, rgb(173, 173, 173) 0%, rgba(115,164,163,1) 100%);
+}
+
+h1 {
+    font-size: 80px;
+    color: rgb(102, 102, 102);
+    padding-left: 70px;
+    font-weight: 100;
+    margin-top: 25px;
+}
+
+#me {
+    width: 340px;
+    float: right;
+    border-radius: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: -160px;
+}
+
+a {
+    color:rgb(88, 88, 88);
+}
+
+
